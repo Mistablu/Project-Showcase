@@ -3,17 +3,17 @@ A webapp designed to showcase the projects i have worked on
 
 ## Java 
 
-### Passive replication implementation(java)
+### Passive replication implementation
 
-### Syntax analyser (java)
+### Syntax analyser 
 
-### Dungeon crawler game (java gradle)
+### Dungeon crawler game
 
 ## Python
 
-### ToDo list (python)
+### ToDo list
 
-### File Compressor (python)
+### File Compressor
 
 
 
